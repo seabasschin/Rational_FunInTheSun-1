@@ -1,3 +1,9 @@
+//Team Fun In The Sun - 1 -- Shaik Abiden and Sebastian Dittgen
+//APCS1 pd10
+//HW 32 -- Irrationality Stops Here
+//2015 - 11 - 17
+
+//class Rational
 public class Rational{
     private int numerator;
     private int denominator;
